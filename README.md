@@ -2,6 +2,10 @@
 
 This analysis uses Python and Unsupervised Learn to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
+## Analysis Summary 
+
+The majority of currencies fall into two groupings of being more impacted by the daily or weekly period. Both models had the same two outliers of celcius-degree-token and ethlend. 
+
 ## Method of Analysis 
 
 1. Prepare the data using StandardScaler from scikit-learn
